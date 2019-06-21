@@ -1,0 +1,80 @@
+.contenedor {
+  border: 2px solid lightblue;
+  border-radius: 5px;
+  height: 800px;
+  width: 710px;
+}
+.padre {
+  border: 2px solid green;
+  border-radius: 5px;
+  width: 680px;
+  height: 85px;
+  margin: 5px;
+}
+.x {
+  border: 2px soild blue;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+.cajaParrafo {
+  border: 2px solid lightblue;
+  border-radius: 5px;
+  width: 700px;
+  height: 85px;
+}
+.cajaPadreModificacion {
+  border: 2px solid orange;
+  height: 150px;
+  width: 700px;
+  margin: 5px;
+}
+.cambio {
+  border: 2px solid red;
+  color: red;
+  width: 680px;
+  height: 85px;
+  margin: 5px;
+  cursor: pointer;
+}
+.avatar {
+  background-image: url(9d86f4572dd5aefb8eb6207b24f7aef1--the-cops-profile-pictures.jpg);
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-position: center;
+  background-size: cover;
+  margin: 5px;
+  float: left;
+}
+.textoCaja {
+  outline: none;
+  height: 50px;
+  width: 550px;
+  margin: 15px;
+}
+.btn-comment {
+  height: 40px;
+  width: 275px;
+  color: white;
+  background-color: rgb(50, 105, 226);
+  border: 2px solid rgb(14, 17, 184);
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-size: 15px;
+  cursor: pointer;
+  margin: 5px;
+}
+.cancelar {
+  height: 40px;
+  width: 275px;
+  color: #ff5733;
+  background-color: white;
+  border: 2px solid #ff5733;
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-size: 15px;
+  cursor: pointer;
+  display: inline-block;
+  margin: 5px;
+}
